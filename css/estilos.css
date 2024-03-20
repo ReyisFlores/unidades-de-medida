@@ -1,0 +1,41 @@
+html{
+    font-size: 24px; /*modifica el tamaño de la letra a 24 pixeles*/
+}
+
+h1{
+    font-size: 16px; /*modifica el tamaño de la letra a 16 pixeles*/
+}
+
+h2{
+    font-size: 1rem; /*modifica  el tamaño de la letra 1rem=16px*/
+}
+
+h3{
+    font-size: 1.75rem; /*modifica el tamaño de la letra 28px*/
+}
+
+h4{
+    font-size: 1.5rem; /*modifica el tamaño de la letra 24px*/
+}
+
+h5{
+    font-size: 1.25rem; /*modifica el tamaño de la letra 20px*/
+}
+
+h6{
+    font-size: 1.05rem; /*modifica el tamaño de la letra 16.8px*/
+}
+
+.contenedor{
+    width: 70%; /*establece el ancho del elemento un 70% de la pantalla visible*/
+    height: 400px; /*establece la altura del elemento a 400px*/
+    background-color: aqua; /*define el color de fondo del elemento*/
+    margin: 30px auto; /*establece el margen de froma automática*/
+}
+
+.hijo{
+    width: 70vw; /*establece el ancho del elemento a 70vw*/
+    height: 50vh; /*establece la altura del elemento a 50vh*/
+    background-color: blueviolet; /*define el color de fondo del elemento*/
+    margin: auto; /*establece el margen de froma automática*/
+}
